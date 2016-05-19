@@ -1,7 +1,14 @@
 import React from 'react';
+
+
 class App extends React.Component {
 	render(){
-		return <div>Hi there</div>
+		return (
+			<div>
+			<h1>Hello World</h1>
+			<b>Bold</b>
+			</div>
+		);
 	}
 }
 
